@@ -1,6 +1,7 @@
 
 # 仓库简介
-#### 个人爱好，收集整合！佛系更新…
+#### 从YanG 1989大佬fork的项目 不修改只收藏
+
 * [Telegram 群「传送门」](https://t.me/Y_anGGGGGG)
 >软件下载,资源集合,没其他东西 (后期可能会分享喜欢的东西)...
 * [疑难杂症「传送门」](https://github.com/YanG-1989/m3u/issues)
